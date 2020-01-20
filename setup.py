@@ -1,6 +1,6 @@
 from distutils.core import setup
 setup(
-  name = 'Topsis-arjav',
+  name = 'Topsis-arjav-101703097',
   packages = ['Topsis'],
   version = '0.1',
   license='MIT',
